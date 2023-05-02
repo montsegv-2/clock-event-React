@@ -1,0 +1,22 @@
+
+.reloj{
+    position: absolute;
+}
+
+.manecilla{
+    width: 3px;
+    height: 50%;
+    background-color: black;
+    position: absolute;
+    top: 0%;
+    left: 50%;
+    transform-origin: bottom;
+}
+
+.hora-manecilla{
+    width: 10px;
+}
+
+.minuto-manecilla{
+    height: 10px;
+}
