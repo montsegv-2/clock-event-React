@@ -1,7 +1,14 @@
 
-.reloj{
-    position: absolute;
-}
+.reloj {
+    margin: 0px auto;
+    width: 650px;
+    height: 650px;
+  }
+
+  .caratula{
+    fill: #fabada;
+    
+  }
 
 .manecilla{
     width: 3px;
